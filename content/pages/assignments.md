@@ -18,8 +18,57 @@ Problem Sets
 
 You have two weeks to do each problem set. They are due in the session listed in the table.
 
-| SES # | PROBLEMS | SOLUTIONS |
-| --- | --- | --- |
-| 9 | [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset1) | [Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit18_904s11_soln1) |
-| 20 | [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset2) | [Problem Set 2 Solutions (partial) (PDF)]({{< baseurl >}}/resources/mit18_904s11_solns2) |
-| 38 | [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset3) | (not available)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEMS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit18_904s11_soln1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 2 Solutions (partial) (PDF)]({{< baseurl >}}/resources/mit18_904s11_solns2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_904s11_pset3)
+{{< tdclose >}}
+{{< tdopen >}}
+(not available)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

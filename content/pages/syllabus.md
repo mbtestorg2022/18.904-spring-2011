@@ -33,11 +33,48 @@ Grading
 
 The final grade is determined as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Lectures and participation | 60% |
-| Final paper | 30% |
-| Problem sets | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lectures and participation
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance is mandatory. Every three missed classes will result in the drop of a letter grade; thus one can miss up to two classes with no effect on the grade.
 
@@ -67,9 +104,69 @@ The final paper is an exposition of a topic in algebraic topology that we will n
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–14 | Fundamental Group, Covering Spaces | Problem set 1 due in Session 9 |
-| 15–25 | Homology | Topic for final paper due in Session 15; Problem set 2 due in Session 20 |
-| 26–34 | Cohomology, Poincare Duality | First draft of paper due in Session 27; Final draft of paper due is Session 32 |
-| 35–39 | Student Presentations of their final papers | Problem set 3 due in Session 38
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–14
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Group, Covering Spaces
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due in Session 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15–25
+{{< tdclose >}}
+{{< tdopen >}}
+Homology
+{{< tdclose >}}
+{{< tdopen >}}
+Topic for final paper due in Session 15; Problem set 2 due in Session 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26–34
+{{< tdclose >}}
+{{< tdopen >}}
+Cohomology, Poincare Duality
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of paper due in Session 27; Final draft of paper due is Session 32
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35–39
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations of their final papers
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due in Session 38
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
