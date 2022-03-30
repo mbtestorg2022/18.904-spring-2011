@@ -44,7 +44,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [18.901 _Introduction to Topology_](/courses/18-901-introduction-to-topology-fall-2004/)
+*   [18.901 _Introduction to Topology_](/courses/18-901-introduction-to-topology-fall-2004)
 
 ### Requirements Satisfied
 
